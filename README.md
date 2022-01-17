@@ -9,7 +9,7 @@
 <img src="img1/Conv.gif" alt="" title="Title text" />
 
 
-| C- | C-max | C-min
+| C- | C-avarage | C-max
 | - | - | -
 ![alt](img1/c1.png) |![alt](img1/c-avarage-pool.png) |  ![alt](img1/c_max-pool.png)
 
