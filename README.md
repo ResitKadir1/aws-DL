@@ -11,7 +11,7 @@
 
 | C- | C-max | C-min
 | - | - | -
-    ![alt](img1/c1.png) |![alt](img1/c-avarage-pool.png) |  ![alt](img1/c-max-pool.png)
+![alt](img1/c1.png) |![alt](img1/c-avarage-pool.png) |  ![alt](img1/c-max-pool.png)
 
 
 #### Create the course environment
