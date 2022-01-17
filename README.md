@@ -13,7 +13,12 @@
 | - | - | -
 ![alt](img1/c1.png) |![alt](img1/c-avarage-pool.png) |  ![alt](img1/c_max-pool.png)
 
+##  Recurrent Neural Networks
+#### Time Series
 
+|Fully Connected | LSTM  | Fully Connected + Windows | LSTM +Windows 
+| - | - | - | -
+![alt](img1/r-Fully-connected.png) |![alt](img1/R-LSTM.png) |  ![alt](img1/R-FC-windows.png) |  ![alt](img1/LSTM-windows.png)
 #### Create the course environment
 
 ```
