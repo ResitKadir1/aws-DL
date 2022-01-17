@@ -1,3 +1,6 @@
+<img src="img1/Conv.gif" alt="" title="Title text" />
+
+
 
 
 #### Create the course environment
@@ -65,17 +68,5 @@ conda remove -y -n ztdl --all
 ```
 
 - restart from environment creation and make sure that each steps completes till the end.
-
-#### Updating Conda
-
-One thing you can also try is to update your conda executable. This may help if you already had Anaconda installed on your system.
-
-```
-conda update conda
-```
-
-These instructions have been tested on:
-
-- Mac OSX Sierra 10.15.7
 
 
