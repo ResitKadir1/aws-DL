@@ -1,6 +1,16 @@
+
+
+| Converge before | Converge after 
+| - | - | 
+    ![alt](img1/1.png) |![alt](img1/2.png) |
+    
+#MIN-MAX
 <img src="img1/Conv.gif" alt="" title="Title text" />
 
 
+| C- | C-max | C-min
+| - | - | -
+    ![alt](img1/c1.png) |![alt](img1/c-avarage-pool.png) |  |![alt](img1/c-max-pool.png)
 
 
 #### Create the course environment
