@@ -2,7 +2,7 @@
 
 | Converge before | Converge after 
 | - | - 
-    ![alt](img1/1.png) |![alt](img1/2.png) 
+![](img1/1.png) |![](img1/2.png) 
     
     
 #MIN-MAX
