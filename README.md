@@ -51,17 +51,6 @@ http://localhost:8888
 ```
 
 
-
-
-#### Troubleshooting installation
-If for some reason you don't see `Houston we are go!`, the simplest solution is to delete the environment and start from scratch again.
-
-To remove the environment:
-
-- close the browser and go back to your terminal
-- stop jupyter notebook (CTRL-C)
-- deactivate the environment (Mac/Linux):
-
 ```
 conda deactivate
 ```
